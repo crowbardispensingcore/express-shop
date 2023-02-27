@@ -1,0 +1,170 @@
+[
+    {
+        "name": "iPhone XR",
+        "description": "The iPhone XR features a 6.1-inch Liquid Retina display and advanced camera system with 12MP TrueDepth front camera.",
+        "brand": "Apple",
+        "type": "Smartphone"
+    },
+    {
+        "name": "Galaxy S21",
+        "description": "The Samsung Galaxy S21 is a powerful smartphone with a 6.2-inch Dynamic AMOLED 2X display and 64MP camera.",
+        "brand": "Samsung",
+        "type": "Smartphone"
+    },
+    {
+        "name": "Pixel 5",
+        "description": "The Google Pixel 5 is a compact and powerful smartphone with a 5.8-inch OLED display and 12.2MP camera.",
+        "brand": "Google",
+        "type": "Smartphone"
+    },
+    {
+        "name": "AirPods Pro",
+        "description": "The AirPods Pro are wireless earbuds with active noise cancellation and a customizable fit for all-day comfort.",
+        "brand": "Apple",
+        "type": "Earbuds"
+    },
+    {
+        "name": "Galaxy Buds Pro",
+        "description": "The Samsung Galaxy Buds Pro are wireless earbuds with active noise cancellation, improved sound quality, and long battery life.",
+        "brand": "Samsung",
+        "type": "Earbuds"
+    },
+    {
+        "name": "Beats Solo Pro",
+        "description": "The Beats Solo Pro are over-ear headphones with active noise cancellation and exceptional sound quality.",
+        "brand": "Apple",
+        "type": "Headphones"
+    },
+    {
+        "name": "Bose QuietComfort 35 II",
+        "description": "The Bose QuietComfort 35 II are noise-cancelling headphones with a comfortable fit and exceptional sound quality.",
+        "brand": "Bose",
+        "type": "Headphones"
+    },
+    {
+        "name": "Surface Laptop 4",
+        "description": "The Microsoft Surface Laptop 4 is a premium laptop with a 13.5-inch Touchscreen display and 11th Gen Intel Core processors.",
+        "brand": "Microsoft",
+        "type": "Laptop"
+    },
+    {
+        "name": "MacBook Air M2",
+        "description": "The MacBook Air M2 is a slim and powerful laptop with a 13.3-inch Retina display and the Apple M2 chip.",
+        "brand": "Apple",
+        "type": "Laptop"
+    },
+    {
+        "name": "ThinkPad X1 Carbon",
+        "description": "The Lenovo ThinkPad X1 Carbon is a durable laptop with a 14-inch Full HD display and Intel Core processors.",
+        "brand": "Lenovo",
+        "type": "Laptop"
+    },
+    {
+        "name": "iPad Pro",
+        "description": "The iPad Pro is a powerful tablet with a Liquid Retina display and the A12Z Bionic chip.",
+        "brand": "Apple",
+        "type": "Tablet"
+    },
+    {
+        "name": "Galaxy Tab S7",
+        "description": "The Samsung Galaxy Tab S7 is apremium tablet with a 11-inch Super AMOLED display and the Snapdragon 865+ processor.",
+        "brand": "Samsung",
+        "type": "Tablet"
+    },
+    {
+        "name": "Nexus 7",
+        "description": "The Google Nexus 7 is a compact and affordable tablet with a 7-inch IPS display and the Android operating system.",
+        "brand": "Google",
+        "type": "Tablet"
+    },
+    {
+        "name": "Apple Watch Series 6",
+        "description": "The Apple Watch Series 6 is a smartwatch with a always-on display, fitness tracking, and cellular connectivity.",
+        "brand": "Apple",
+        "type": "Smartwatch"
+    },
+    {
+        "name": "Galaxy Watch 3",
+        "description": "The Samsung Galaxy Watch 3 is a smartwatch with advanced fitness tracking, ECG monitoring, and long battery life.",
+        "brand": "Samsung",
+        "type": "Smartwatch"
+    },
+    {
+        "name": "Fitbit Sense",
+        "description": "The Fitbit Sense is a advanced fitness tracker with ECG monitoring, skin temperature tracking, and long battery life.",
+        "brand": "Fitbit",
+        "type": "Fitness Tracker"
+    },
+    {
+        "name": "Vivosmart 5",
+        "description": "The Garmin Vivosmart 5 is a fitness tracker with advanced fitness tracking, heart rate monitoring, and long battery life.",
+        "brand": "Garmin",
+        "type": "Fitness Tracker"
+    },
+    {
+        "name": "Bose SoundTouch 300",
+        "description": "The Bose SoundTouch 300 is a soundbar with powerful, room-filling sound and built-in Wi-Fi and Bluetooth connectivity.",
+        "brand": "Bose",
+        "type": "Soundbar"
+    },
+    {
+        "name": "Samsung HW-Q60T",
+        "description": "The Samsung HW-Q60T is a soundbar with powerful, room-filling sound and built-in Alexa and Google Assistant.",
+        "brand": "Samsung",
+        "type": "Soundbar"
+    },
+    {
+        "name": "Sonos Beam",
+        "description": "The Sonos Beam is a compact soundbar with powerful, room-filling sound and built-in Alexa and Google Assistant.",
+        "brand": "Sonos",
+        "type": "Soundbar"
+    },
+    {
+        "name": "Bose Home Speaker 500",
+        "description": "The Bose Home Speaker 500 is a smart speaker with powerful, room-filling sound and built-in Alexa and Google Assistant.",
+        "brand": "Bose",
+        "type": "Smart Speaker"
+    },
+    {
+        "name": "Echo Studio",
+        "description": "The Amazon Echo Studio is a smart speaker with powerful, 3D sound and built-in Alexa and Zigbee smart home hub.",
+        "brand": "Amazon",
+        "type": "Smart Speaker"
+    },
+    {
+        "name": "Roku Ultra",
+        "description": "The Roku Ultra is a streaming device with 4K resolution, HDR, and a quad-core processor for fast and smooth performance.",
+        "brand": "Roku",
+        "type": "Streaming Device"
+    },
+    {
+        "name": "Fire TV Stick 4K",
+        "description": "The Amazon Fire TV Stick 4K is a streaming device with 4K resolution, Alexa Voice Remote, and access to thousands of streaming channels.",
+        "brand": "Amazon",
+        "type": "Streaming Device"
+    },
+    {
+        "name": "Chromecast with Google TV",
+        "description": "The Google Chromecast with Google TV is a streaming device with a built-in Google Assistant, 4K resolution, and access to thousands of streaming channels.",
+        "brand": "Google",
+        "type": "Streaming Device"
+    },
+    {
+        "name": "Sony Bravia X900H",
+        "description": "The Sony Bravia X900H is a 4K HDR TV with a large 55-inch display and powerful sound system.",
+        "brand": "Sony",
+        "type": "Television"
+    },
+    {
+        "name": "LG OLED CX",
+        "description": "The LG OLED CX is a 4K HDR TV with a large 55-inch OLED display and powerful sound system.",
+        "brand": "LG",
+        "type": "Television"
+    },
+    {
+        "name": "Samsung Q900T",
+        "description": "The Samsung Q900T is a 8K HDR TV with a large 55-inch QLED display and powerful sound system.",
+        "brand": "Samsung",
+        "type": "Television"
+    }
+]

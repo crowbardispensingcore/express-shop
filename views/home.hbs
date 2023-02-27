@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="/home.css">
+</head>
+
+<body>
+    {{> header this}}
+    <div class="main-container">
+        <div class="left-panel">
+            <div class="filter">
+                <h3>Filters</h3>
+                <h4>Brands</h4>
+                <div id="brand-filter"></div>
+                <h4>Types</h4>
+                <div id="type-filter"></div>
+            </div>
+        </div>
+        <div class="center-panel">
+            <table>
+                <thead>
+                    <tr>
+                    <th>Product Name</th>
+                    <th>Brand</th>
+                    <th>Type</th>
+                    <th>Favorite</th>
+                </tr>
+                </thead>
+                <tbody id="product-table">
+                </tbody>
+            </table>
+            <div id="page-control-panel"></div>
+        </div>
+        <div class="right-panel">
+            <h3>Favorites</h3>
+            <div id="favorite-panel"></div>
+        </div>
+    </div>
+    <script src="/javascripts/home.js"></script>
+</body>
+
+</html>
